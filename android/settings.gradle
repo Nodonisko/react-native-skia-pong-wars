@@ -1,4 +1,4 @@
-rootProject.name = 'bounce-ball-skia'
+rootProject.name = 'pong-wars'
 
 dependencyResolutionManagement {
   versionCatalogs {

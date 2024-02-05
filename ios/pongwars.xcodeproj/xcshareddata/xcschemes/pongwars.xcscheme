@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "bounceballskia.app"
-               BlueprintName = "bounceballskia"
-               ReferencedContainer = "container:bounceballskia.xcodeproj">
+               BuildableName = "pongwars.app"
+               BlueprintName = "pongwars"
+               ReferencedContainer = "container:pongwars.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "bounceballskiaTests.xctest"
-               BlueprintName = "bounceballskiaTests"
-               ReferencedContainer = "container:bounceballskia.xcodeproj">
+               BuildableName = "pongwarsTests.xctest"
+               BlueprintName = "pongwarsTests"
+               ReferencedContainer = "container:pongwars.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "bounceballskia.app"
-            BlueprintName = "bounceballskia"
-            ReferencedContainer = "container:bounceballskia.xcodeproj">
+            BuildableName = "pongwars.app"
+            BlueprintName = "pongwars"
+            ReferencedContainer = "container:pongwars.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "bounceballskia.app"
-            BlueprintName = "bounceballskia"
-            ReferencedContainer = "container:bounceballskia.xcodeproj">
+            BuildableName = "pongwars.app"
+            BlueprintName = "pongwars"
+            ReferencedContainer = "container:pongwars.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

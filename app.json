@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bounce-ball-skia",
-    "slug": "bounce-ball-skia",
+    "name": "pong-wars",
+    "slug": "pong-wars",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,19 +11,17 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.nodon.bounceballskia"
+      "bundleIdentifier": "com.nodon.pongwars"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.nodon.bounceballskia"
+      "package": "com.nodon.pongwars"
     },
     "web": {
       "favicon": "./assets/favicon.png"

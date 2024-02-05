@@ -1,4 +1,4 @@
-package com.nodon.bounceballskia
+package com.nodon.pongwars
 
 import android.app.Application
 import android.content.res.Configuration
