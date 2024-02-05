@@ -8,7 +8,7 @@ Contributions are super welcome. Just one small request: let's keep the game sim
 
 ## How to Run 🏃‍♂️
 
-It's set up as a basic Expo project, so just use `yarn ios` or `yarn android` to get the ball rolling.
+It's set up as a basic Expo project. Install deps `npm install` and then just use `npm run ios` or `npm run android` to get the ball rolling.
 
 ## Shoutouts 📣
 
