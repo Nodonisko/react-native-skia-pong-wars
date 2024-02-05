@@ -4,7 +4,7 @@ Hey there! Welcome to my little corner of the internet where day battles night i
 
 ## Development 🛠
 
-Contributions are super welcome. Just one small request: let's keep the game simple and fun, shall we?
+Contributions are super welcome. Just one small request: let's keep the game simple and fun.
 
 ## How to Run 🏃‍♂️
 
@@ -12,4 +12,4 @@ It's set up as a basic Expo project. Install deps `npm install` and then just us
 
 ## Shoutouts 📣
 
-Huge shoutout to [vnglst](https://github.com/vnglst) for sparking the idea and for the [original source code](https://github.com/vnglst/pong-wars) that inspired this project. Couldn't have done it without you!
+Huge shoutout to [vnglst](https://github.com/vnglst) for sparking the idea and for the [original source code](https://github.com/vnglst/pong-wars) that inspired this project.
