@@ -1,5 +1,4 @@
 import { Circle } from "@shopify/react-native-skia";
-import { Dimensions } from "react-native";
 import {
   SharedValue,
   useFrameCallback,
