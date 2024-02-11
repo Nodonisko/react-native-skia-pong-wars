@@ -21,6 +21,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "permissions": ["HIGH_SAMPLING_RATE_SENSORS"],
       "package": "com.nodon.pongwars"
     },
     "web": {
